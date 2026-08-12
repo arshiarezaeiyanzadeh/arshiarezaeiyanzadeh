@@ -80,7 +80,4 @@ I am a passionate **Electrical Engineering student at K. N. Toosi University of 
   <b>⚡ Thanks for visiting! I'm always open to new connections. Let's wire our ideas together, merge hardware with AI, and spark the next big innovation! 🔌🧠</b>
 </p>
 
-<p align="center">
-  Made with ❤️ by Arshia Rezaianzadeh
-</p>
 </div>
