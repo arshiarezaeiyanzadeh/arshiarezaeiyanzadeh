@@ -78,6 +78,7 @@ I am a passionate **Electrical Engineering student at K. N. Toosi University of 
 </p>
 
 </div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=bf00ff,ff00ff,9400d3,800080&height=140&section=footer" width="100%" />
 </p>
