@@ -1,10 +1,12 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF00FF,33:FF00FF,66:9400D3,100:800080&height=180&section=header&text=Arshia%20Rezaianzadeh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Electrical%20Engineering%20%7C%20Robotics%20%26%20AI%20%7C%20Full-Stack%20Dev&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+</p>
 
-# Hello! I'm Arshia Rezaianzadeh 👋
+<div align="center">
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic&weight=700&size=22&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Electrical+Engineering+Student+at+KNTU;Robotics+%26+AI+Innovator;Full-Stack+Developer;Hardware+%26+ML+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Electrical+Engineering+Student+at+KNTU;Robotics+%26+AI+Innovator;Full-Stack+Developer;Hardware+%26+ML+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -45,6 +47,7 @@ I am a passionate **Electrical Engineering student at K. N. Toosi University of 
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
 ---
 
 ### 💻 Environments I Use
