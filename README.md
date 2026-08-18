@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF00FF,33:FF00FF,66:9400D3,100:800080&height=180&section=header&text=Arshia%20Rezaianzadeh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Electrical%20Engineering%20%7C%20Robotics%20%26%20AI%20%7C%20Full-Stack%20Dev&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF00FF,33:FF00FF,66:9400D3,100:800080&height=140&section=header&v=3" width="100%" />
 </p>
 
 <div align="center">
+
+# Hello! I'm Arshia Rezaianzadeh 👋
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -85,3 +87,4 @@ I am a passionate **Electrical Engineering student at K. N. Toosi University of 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF00FF,33:FF00FF,66:9400D3,100:800080&height=140&section=footer&v=3" width="100%" />
 </p>
+
